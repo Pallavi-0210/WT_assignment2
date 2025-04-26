@@ -37,3 +37,14 @@ A full-stack web application for managing student records using the **MERN** sta
 - **npm**: A package manager for JavaScript, used for managing dependencies and scripts.
 
 ---
+## Project Preview
+![image](https://github.com/user-attachments/assets/39c587c0-4a8f-428b-8d80-5dc64bd3e0ab)
+![image](https://github.com/user-attachments/assets/1c16351d-5522-4991-ad10-192f2d5abede)
+![image](https://github.com/user-attachments/assets/9d719864-0793-48de-a4e1-cf9ba2c84c83)
+![image](https://github.com/user-attachments/assets/ac6e01d5-084b-4578-9fb8-bbbb97053f18)
+![image](https://github.com/user-attachments/assets/3f4626ba-947f-41ac-81d1-1f6a60ed4cbf)
+
+
+
+
+
